@@ -12,4 +12,4 @@
 - **Tools:** Git, VS Code
 
 ### 📬 Connect with me
-[LinkedIn](((https://www.linkedin.com/in/ankita-kumari-baid-9b063830b?utm_source=share_via&utm_content=profile&utm_medium=member_android)) | [Twitter](your-link) | [Portfolio](your-link)
+[LinkedIn](https://www.linkedin.com/in/ankita-kumari-baid-9b063830b?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [Twitter](your-link) | [Portfolio](your-link)
