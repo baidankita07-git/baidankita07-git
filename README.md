@@ -1,6 +1,6 @@
 # Hi there! I'm ANKITA KUMARI BAID 👋
 
-[My Intro GIF](<img width="200" height="206" alt="HEYYOU" src="https://github.com/user-attachments/assets/3b684315-7242-422d-9e7e-2f84a7d83f39" />)
+<img width="200" height="206" alt="HEYYOU" src="https://github.com/user-attachments/assets/3b684315-7242-422d-9e7e-2f84a7d83f39" />
 
 ### 🚀 About Me
 - 🌱 I’m currently learning Natural Language Processing with ML
