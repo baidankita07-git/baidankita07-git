@@ -8,8 +8,8 @@
 
 ### 🛠️ Tech Stack
 - **Languages:** JavaScript, Python, HTML/CSS
-- **Frameworks:** React, Node.js
-- **Tools:** Git, VS Code
+- **DataBase:** MySQL, Oracle
+- **Tools:** GitHub, VS Code, Word, Excel
 
 ### 📬 Connect with me
-[LinkedIn](https://www.linkedin.com/in/ankita-kumari-baid-9b063830b?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [Twitter](https://x.com/AnkitaKumari67) | [Mail](baidankita07@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ankita-kumari-baid-9b063830b?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [Twitter](https://x.com/Ankitaannoys)
